@@ -399,5 +399,62 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "IRIS Autism Module",
+        "courseOER": "https://OATutor.io <OATutor>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "76Eoahnw-ViTX-mdSi2FJd7N",
+                "name": "Lesson What",
+                "topics": "is ASD",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "asd_characteristics": 0.85,
+                    "diagnostic_criteria": 0.85
+                }
+            },
+            {
+                "id": "576wFfWL-lJLX-E9SImK6DzP",
+                "name": "Lesson ASD",
+                "topics": "Characteristics",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "asd_characteristics": 0.85,
+                    "diagnostic_criteria": 0.85
+                }
+            },
+            {
+                "id": "4SRqpVJX-om6i-LnJoIVMYg4",
+                "name": "Lesson The",
+                "topics": "Multidisciplinary Team",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "multidisciplinary_support": 0.85,
+                    "service_providers": 0.85
+                }
+            },
+            {
+                "id": "7VrBLxLa-8F5C-yTYnVNFNMX",
+                "name": "Lesson Working",
+                "topics": "with Families with ASD",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "family_involvement": 0.85,
+                    "family_support": 0.85
+                }
+            },
+            {
+                "id": "1hiF71zZ-BkUF-a7sUDPLN2M",
+                "name": "Lesson Faces",
+                "topics": "of ASD",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "asd_supports": 0.85,
+                    "asd_symptoms": 0.85
+                }
+            }
+        ]
     }
 ]
